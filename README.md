@@ -1,11 +1,8 @@
+<h1 align="center">Hi 👋, I'm BenTemessek Iheb</h1>
+<h3 align="center">A passionate FullStack Developer</h3>
 <div align="center">
   <img alt="coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6n74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386k506f73776l7zj5js46j556756j455zzwqsq5z46z456zq45j4563zwq48j78v44b566553zz8b332-7z8ys7cp27yzyjs7zv7ys74b56l41v6l55535v65633wq45j6555v74n14g7056j65zzzqj456j4587r-j3zzzzz7ywq5y53qr544v54zwqj556c4567y456w6jjj556j45j4w65qj4531655767776k56m74exgl4n7Gp04IvTJZamWLI2zv50w0o/coding.jpg">
 </div>
-
-<h1 align="center">Hi 👋, I'm BenTemessek Iheb</h1>
-<h3 align="center">A passionate FullStack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bentemessek99iheb&label=Profile%20views&color=0e75b6&style=flat" alt="bentemessek99iheb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bentemessek99iheb" alt="bentemessek99iheb" /></a> </p>
 
