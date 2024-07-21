@@ -8,8 +8,6 @@
 
 - 🔭 currently a Software Engineering Student at **ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies**
 
-- 🌱 I’m currently looking for **End of studies internship**
-
 - 👯 I’m looking to collaborate on **new projects**
 
 - 📫 How to reach me **iheb.bentemessek@esprit.tn**
