@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bentemessek99iheb" alt="bentemessek99iheb" /></a> </p>
 
-- 🔭 currently a Software Engineering Student at **ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies**
+- 🔭 currently a Software Engineering  at **AP-HP : Assistance Publique des Hopitaux de paris **
 
 - 👯 I’m looking to collaborate on **new projects**
 
